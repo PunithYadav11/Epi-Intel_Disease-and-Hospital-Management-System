@@ -1,4 +1,4 @@
-# This is wedpage for Disease and hospital Management system
+# This is a wedpage for Disease and hospital Management system
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/8bf78855-a0fc-450f-a05a-a34b116857f4)
 ![Screenshot (29)](https://github.com/user-attachments/assets/6ceb44fb-6dd0-4f3e-87e2-ce137fadad5d)
